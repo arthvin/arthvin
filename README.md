@@ -1,12 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arthur+Semensati!;" />
-</h1>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=180&section=header&text=Full-Stack+Developer&fontSize=30&fontColor=FFFAFA&animation=fadeIn&fontAlignY=35"/>
+<h1 align="center"><strong>Full-Stack Developer</strong></h1>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=arthvin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthvin&layout=compact&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthvin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=true" alt="GitHub Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthvin&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -48,10 +44,10 @@
   </a>
 </div>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthvin/arthvin/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthvin/arthvin/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthvin/arthvin/output/pacman-contribution-graph.svg">
 </picture>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
