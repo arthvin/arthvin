@@ -1,8 +1,8 @@
 <h1 align="center"><strong>Full-Stack Developer</strong></h1>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthvin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=true" alt="GitHub Stats"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthvin&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthvin&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Stats" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthvin&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="height: 200px;" />
 </div>
 
 ---
