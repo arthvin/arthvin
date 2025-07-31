@@ -54,11 +54,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<div align="center">
-  <br>
-  <p><b>Total Profile Visits</b></p>  
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/arthvin&count_bg=%23000080&title_bg=%23000080&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false" />
-  <br><br>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
