@@ -7,6 +7,20 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthvin&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" alt="arthvin stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthvin&layout=compact&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117" />
+
+  <p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arthvin&bg_color=0d1117&color=00bfff&line=8f00ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  </p>
+
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arthvin&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arthvin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+
 </div>
 
 ---
