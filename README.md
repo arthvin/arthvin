@@ -1,40 +1,22 @@
 <h1 align="center"><strong>Full-Stack Developer</strong></h1>
 
+<p align="center">
+Sou Engenheiro de Software e Desenvolvedor FullStack com experiência em Node.js (NestJS) no backend e React/Next.js no frontend. Atuo no desenvolvimento de aplicações escaláveis e bem estruturadas, sempre focado em boas práticas, performance e experiência do usuário. Tenho conhecimento em bancos de dados relacionais e não relacionais, integrações em tempo real, mensageria, automação e implantação em containers e orquestradores. Atualmente, trabalho em projetos que envolvem comunicação em tempo real, CRM e integrações com APIs externas, buscando sempre entregar soluções robustas e eficientes.
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthvin&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Stats" style="width: 49%; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthvin&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 49%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthvin&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### Technologies for Backend:
-<div align="start">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" widgh=40 height=40 />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" widgh=40 height=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" widgh=40 height=40 />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width=40 height=40 />    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=40 height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40 height=40/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width=40 height=40 />          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=40 height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=40 height=40 />          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width=40 height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=40 height=40 />
 </div>
-
----
-
-### Technologies for Front-end:
-<div align="start">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" widgh=40 height=40/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" widgh=40 height=40 />          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" widgh=40 height=40 />
-</div>
-
----
-
-### Tools and IDEs:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" widgh=40 height=40 />          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" widgh=40 height=40 />
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthvin/arthvin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthvin/arthvin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthvin/arthvin/output/pacman-contribution-graph.svg">
-</picture>
