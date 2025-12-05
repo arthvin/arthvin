@@ -1,7 +1,9 @@
 <h1 align="center"><strong>Full-Stack Developer</strong></h1>
 
 <p align="center">
-I am a Software Engineer and FullStack Developer with experience in Node.js (NestJS) for the backend and React/Next.js for the frontend. I work on building scalable and well-structured applications, always focused on best practices, performance, and user experience. I have expertise in relational and non-relational databases, such as PostgreSQL, MongoDB, and Redis, as well as real-time integrations, messaging systems, automation, and deployment using containers and orchestrators. Currently, I am involved in projects that include real-time communication, CRM platforms, and integrations with external APIs, always aiming to deliver robust and efficient solutions.
+Sou Engenheiro de Software e Desenvolvedor Full Stack, com experiência em backend utilizando Node.js (NestJS) e frontend com React/Next.js. Trabalho na construção de aplicações escaláveis e bem estruturadas, sempre focado em boas práticas, performance e excelente experiência do usuário.
+Tenho domínio em bancos de dados relacionais e não relacionais, como PostgreSQL, MongoDB e Redis, além de integrações em tempo real, sistemas de mensageria, automações e deploy utilizando containers e orquestradores.
+Atualmente, atuo em projetos que envolvem comunicação em tempo real, plataformas de CRM e integrações com APIs externas, sempre com o objetivo de entregar soluções robustas, eficientes e de alta qualidade.
 </p>
 
 <div align="center">
