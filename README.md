@@ -7,7 +7,7 @@ Atualmente, atuo em projetos que envolvem comunicação em tempo real, plataform
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthvin&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthvin&theme=github_dark" />
 </div>
 
 ---
